@@ -138,3 +138,7 @@ docker run --rm browser-research-agent research \
 - Hosted API deployment after authentication, rate limits, scope, and artifact-storage policy are defined.
 - Domain-specific layers (Upwork intelligence, real estate analysis, vendor assessment) that use this engine as foundation.
 - Lightweight review UI for screenshots and snippets.
+
+## Automation Tools Catalog
+
+Part of [Stefan's automation tools catalog](https://github.com/stefan-mcf/automation-tools).

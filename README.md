@@ -4,6 +4,8 @@ Domain-agnostic browser automation research engine. Provide an objective and URL
 
 ## Features
 
+**Role:** browser workflow, extraction and scoring logic, CLI/API interfaces and evidence reports. **Status:** an SM Systems research tool; supplied examples demonstrate the workflow and do not establish outcomes for a paying client.
+
 - Drives a real browser with Playwright.
 - Visits supplied research URLs and captures auditable artifacts.
 - Extracts metadata, headings, visible text, links, and objective-matching evidence snippets.
@@ -141,4 +143,4 @@ docker run --rm browser-research-agent research \
 
 ## Automation Tools Catalog
 
-Part of [Stefan's automation tools catalog](https://github.com/stefan-mcf/automation-tools).
+Part of [Stefan's systems and automation portfolio](https://github.com/stefan-mcf#supporting-tools).
